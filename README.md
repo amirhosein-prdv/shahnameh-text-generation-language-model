@@ -23,6 +23,13 @@ To train the LSTM model and generate text:
 - NumPy
 - Jupyter Notebook (for running the provided notebook)
 
+## Results
+
+ere is an example of a generated poem using the text "به نام رستم دستان"
+
+![image](https://github.com/user-attachments/assets/a54a873d-e7a6-4a83-9aa0-01e24418c7a8)
+
+
 ## Credits
 
 This project is inspired by the work of Ferdowsi and the countless scholars and enthusiasts who have studied and preserved the *Shahnameh* over the centuries. The implementation of the LSTM model is based on modern deep learning techniques and libraries.
